@@ -191,3 +191,15 @@ body{
 .text-black{
     color: black;
 }
+.wallpadding{
+   padding-top: 20px;
+   padding-bottom: 5px;
+}
+.card :hover {
+    transform: scale(1.02);
+    transition: all 0.1s;
+    cursor: pointer;
+}
+.myorange{
+    background-color: #ff5733;
+}

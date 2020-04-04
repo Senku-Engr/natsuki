@@ -1,0 +1,190 @@
+#cf {
+    background-color: rgb(0, 0, 0);
+}
+
+#no-border {
+    border: 0;
+    box-shadow: none;
+}
+
+.right {
+    float: right;
+}
+
+.ptb {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.myborder {
+    border: 1px solid rgb(179, 154, 154);
+}
+
+.nomargin {
+    margin: 0;
+}
+
+.nopadding {
+    padding: 0;
+}
+
+.searchpadding {
+    padding: 5%;
+}
+
+.listpadding {
+    padding-left: 20%;
+}
+
+.ppadding {
+    padding: 5%;
+}
+
+.topmargin {
+    margin-top: 20px;
+}
+
+.gopadding {
+    padding: 0;
+}
+
+.footermargin {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+
+strong {
+    color: black;
+}
+
+footer {
+    background-color: wheat;
+}
+
+.mblue {
+    color: cornflowerblue;
+}
+
+.mred {
+    color: rgb(255, 19, 19);
+}
+
+.tbgc {
+    background-color: darkkhaki;
+}
+
+.fullwidth {
+    width: 100%;
+}
+
+.hbold {
+    font-weight: bold;
+}
+
+.hbolder {
+    font-weight: bolder;
+}
+
+.fullborder {
+    border: 1px solid rgb(161, 153, 153);
+    text-align: center;
+    /* margin: 10cm; */
+    padding: 10px;
+}
+.pp {
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.myinput {
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.minput{
+    margin-top: 30px;
+}
+.mytextarea {
+    /* height: 50px; */
+    width: 100%;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+@media only screen and (min-width: 800px) {
+    .myinput {
+        height: 50px;
+        width: 50%;
+        font-size: 20px;
+        font-weight: bolder;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+.blackbtn{
+background-color: purple;}
+
+
+.mytitle{
+    font-weight: bold;
+    font-size: 30px;
+    padding-right: 30px;
+    font-family:cursive;
+}
+body{
+    font-family: cursive;
+}
+.hbold{
+    font-weight: bold;
+}
+.hbolder{
+    font-weight: bolder;
+}
+.hpadding{
+    padding: 10px;
+}
+.cbody{
+    height: 100vh;
+}
+.myfooter{
+    /* height: 100vh; */
+    /* height: auto; */
+    vertical-align: bottom;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.plr{
+    padding-right: 8%;
+    padding-left: 8%;
+}
+.myred{
+    background-color: #c70039;
+}
+.mypink{
+    background-color: #EB369E;
+}
+.mypurple{
+    background-color: purple;
+    
+}
+.myblack{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
+.myblue{
+    background-color: rgb(13, 183, 240);
+}
+.mygreen{
+    background-color: lightgreen;
+}
